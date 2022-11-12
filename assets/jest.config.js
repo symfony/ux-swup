@@ -1,4 +1,4 @@
-const config = require('../../../../jest.config.js');
+const config = require('../../../jest.config.js');
 
 config.transformIgnorePatterns = [
     // delegate-it needs to be transformed
