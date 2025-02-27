@@ -7,7 +7,7 @@
         "symfony-ux"
     ],
     "homepage": "https://ux.symfony.com/swup",
-    "repository": "https://github.com/symfony/ux-swup/tree/2.x",
+    "repository": "https://github.com/symfony/ux-swup",
     "type": "module",
     "files": [
         "dist"
