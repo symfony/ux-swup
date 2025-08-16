@@ -10,8 +10,8 @@
 import { Application, Controller } from '@hotwired/stimulus';
 import { getByTestId, waitFor } from '@testing-library/dom';
 import { afterEach, describe, expect, it } from 'vitest';
-import { clearDOM, mountDOM } from '../../../../test/stimulus-helpers';
-import SwupController from '../src/controller';
+import { clearDOM, mountDOM } from '../../../../../test/stimulus-helpers';
+import SwupController from '../../src/controller';
 
 let actualSwupOptions: any = null;
 
